@@ -38,3 +38,7 @@ body.green{
 body.blue{
 	background-color: rgb(183, 200, 250);
 }
+
+body.rainbow{
+	background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
